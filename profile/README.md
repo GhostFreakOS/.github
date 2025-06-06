@@ -67,7 +67,7 @@ We are building an ecosystem where open-source meets cutting-edge performance, e
 
 ## ©️ Copyright
 
-> **© 2025 A7med Shafiq ([@d3f4ult-dev](https://github.com/d3f4ult-dev)) & Asaad Zain ([@asaadzx](https://github.com/asaadzx))**  
+> **© 2025 A7med Shafiq ([@Ghostfreakk](https://github.com/d3f4ult-dev)) & Asaad Zain ([@asaadzx](https://github.com/asaadzx))**  
 All rights reserved. Project contributions are welcome under the license terms specified in each repository.
 
 ---
