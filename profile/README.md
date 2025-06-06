@@ -50,7 +50,7 @@ We are building an ecosystem where open-source meets cutting-edge performance, e
 
 ## 🛠️ Tech Stack
 
-- 🐧 Linux (Mint-based)  
+- 🐧 Linux (Ubuntu-based)  
 - ⚙️ Bash, C++, Rust  
 - 🧠 AI integrations (Offline/On-device)  
 - 💾 Custom package systems  
