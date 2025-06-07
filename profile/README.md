@@ -60,8 +60,8 @@ We are building an ecosystem where open-source meets cutting-edge performance, e
 ## 📬 Contact & Community
 
 - 📧 Email: ghostfreakinc@gmail.com  
-- 🌐 Website: *Coming Soon*  
 - 📜 License: Mostly MIT, project-dependent  
+## 🌐 [Website]( https://ghost-freak.vercel.app/)   
 
 ---
 
