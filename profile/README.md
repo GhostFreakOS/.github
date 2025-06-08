@@ -22,7 +22,7 @@ Designed for developers, creators, and privacy-conscious users.
 
 ---
 
-### 🖥️ GhostShell
+### 🖥️ ZenShell
 A next-generation command-line shell with:
 - 🔁 Smart history & auto-suggestions  
 - 🌈 Syntax highlighting & customization  
