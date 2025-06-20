@@ -12,7 +12,7 @@ Welcome to the official GitHub organization for **GhostFR Inc.** — building fu
 ## 🧱 Our Core Projects
 
 ### 🧠 GhostFreak OS
-A sleek, modern Linux distribution based on Linux Mint.  
+A sleek, modern Linux distribution based on archlinux  
 Designed for developers, creators, and privacy-conscious users.
 
 - 🔒 Privacy-respecting  
@@ -50,8 +50,8 @@ We are building an ecosystem where open-source meets cutting-edge performance, e
 
 ## 🛠️ Tech Stack
 
-- 🐧 Linux (Ubuntu-based)  
-- ⚙️ Bash, C++, Rust  
+- 🐧 Linux (Arch-based)  
+- ⚙️ Zen, C++, lua  
 - 🧠 AI integrations (Offline/On-device)  
 - 💾 Custom package systems  
 
@@ -61,13 +61,13 @@ We are building an ecosystem where open-source meets cutting-edge performance, e
 
 - 📧 Email: ghostfreakinc@gmail.com  
 - 📜 License: Mostly MIT, project-dependent  
-## 🌐 [Website]( https://ghost-freak.vercel.app/)   
+## 🌐 [Website]( https://ghostfreak-inc.vercel.app/)   
 
 ---
 
 ## ©️ Copyright
 
-> **© 2025 A7med Shafiq ([@Ghostfreakk](https://github.com/d3f4ult-dev)) & Asaad Zain ([@asaadzx](https://github.com/asaadzx))**  
+> **© 2025 A7med Shafiq ([@Ghostfreakk](https://github.com/GhostFreakk)) & Asaad Zain ([@asaadzx](https://github.com/asaadzx))**  
 All rights reserved. Project contributions are welcome under the license terms specified in each repository.
 
 ---
